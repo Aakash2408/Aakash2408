@@ -27,6 +27,5 @@ I am a developer who is passionate about stuff like developing software and webs
 <p align = "center">
 <a href="https://github.com/Aakash2408/Path-Finding-Visualizer"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=aakash2408&repo=Path-Finding-Visualizer&theme=tokyonight" /></a>
 <a href = "https://github.com/aakash2408/TamatarWala-Online-Veggies-Store"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=aakash2408&repo=TamatarWala-Online-Veggies-Store&theme=tokyonight" /></a>
-<a href = "https://github.com/Aakash2408/GAME-OF-THRONES-BOARD-GAME"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aakash2408&repo=GAME-OF-THRONES-BOARD-GAME&theme=tokyonight" /></a> </p>
 
 </details>
