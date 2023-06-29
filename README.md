@@ -5,8 +5,6 @@ I am a developer who is passionate about stuff like developing software and webs
 - 👨🏽‍💻 Currently working, learning and growing my skillset in Web Development, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in Web Development, Open Source Projects.
 - 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in Frontend and Backend Engineering fields.
-
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
